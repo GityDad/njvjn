@@ -17,7 +17,7 @@
         </div>
     </div>
     <div class="message">
-        <p>Dear Sumona,</p>
+        <p>Dear {Sumona},</p>
         <p>Just like this rose, my love for you is beautiful and everlasting. Happy [Occasion]!</p>
         <p>With all my love, [You know who]</p>
     </div>
