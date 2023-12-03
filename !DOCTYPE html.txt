@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Love Rose</title>
+</head>
+<body>
+    <div class="rose">
+        <div class="stem"></div>
+        <div class="flower">
+            <div class="petal"></div>
+            <div class="petal"></div>
+            <div class="petal"></div>
+            <div class="petal"></div>
+        </div>
+    </div>
+    <div class="message">
+        <p>Dear Sumona,</p>
+        <p>Just like this rose, my love for you is beautiful and everlasting. Happy [Occasion]!</p>
+        <p>With all my love, [You know who]</p>
+    </div>
+</body>
+</html>
